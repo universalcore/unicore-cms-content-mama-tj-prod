@@ -6,12 +6,12 @@
   "primary_category": "92d9d4e9add444ba8f47b55f8d2e20fa", 
   "created_at": "2014-11-10T20:20:38.373053+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-10T21:06:17.621547+00:00", 
+  "modified_at": "2014-11-10T21:36:34.932684+00:00", 
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": null, 
-  "position": 6, 
+  "position": 1, 
   "slug": "mwezi-wa-4", 
   "uuid": "a6119512b0a54519aa6a8f557dd8d289"
 }
