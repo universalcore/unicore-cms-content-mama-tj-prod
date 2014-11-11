@@ -6,12 +6,12 @@
   "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
   "created_at": "2014-10-21T12:35:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-10T21:19:11.501542+00:00", 
+  "modified_at": "2014-11-11T09:42:32.847739+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 23, 
+  "position": 20, 
   "slug": "baba-wa-mara-ya-kwanza", 
   "uuid": "04e6bdde0fea46aaa6b3554ce7b0036b"
 }
