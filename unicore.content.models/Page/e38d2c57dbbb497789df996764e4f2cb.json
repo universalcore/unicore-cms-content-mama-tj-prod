@@ -6,21 +6,23 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2014-10-07T21:12:52+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-11-17T13:28:50.717916+00:00", 
+  "modified_at": "2014-11-21T16:55:31.055233+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": "e38d2c57dbbb497789df996764e4f2cb", 
-  "content": "Your baby may be getting ready to be born. Most babies turn head down about\nnow. You may notice that your baby drops down into your pelvis. This makes it\neasier to breathe, but it also means that you need to urinate more often! You\nmay have swelling lower down between your legs where you can feel your baby\u2019s\nhead. Rest lying down, with your feet on a pillow when you can, to reduce the\nswelling. Your baby has developed all his internal organs fully now. Inside\nyou, he is swallowing the fluid in your womb and then passing it out again.\nHis lungs are fully grown and will work as soon he takes his first breath. Try\nto rest each day and think about the baby you are growing. Soon you will see\nhim. Your baby can hear your voice and will recognise you when you say hi to\nhim for the first time! You may feel fewer big movements because it is quite\ncramped inside your womb. But you should still feel your baby kick regularly.\nIf you are not sure, sit quietly after a meal and notice how often he kicks.\nIf you do not count several kicks see your health worker. created by\nBabyCenter\n\n", 
+  "content": "Created by Baby Center\r\n\r\nYour baby may be getting ready to be born. Most babies turn head down about\r\nnow. You may notice that your baby drops down into your pelvis. This makes it\r\neasier to breathe, but it also means that you need to urinate more often! You\r\nmay have swelling lower down between your legs where you can feel your baby\u2019s\r\nhead. Rest lying down, with your feet on a pillow when you can, to reduce the\r\nswelling. Your baby has developed all his internal organs fully now. Inside\r\nyou, he is swallowing the fluid in your womb and then passing it out again.\r\nHis lungs are fully grown and will work as soon he takes his first breath. Try\r\nto rest each day and think about the baby you are growing. Soon you will see\r\nhim. Your baby can hear your voice and will recognise you when you say hi to\r\nhim for the first time! You may feel fewer big movements because it is quite\r\ncramped inside your womb. But you should still feel your baby kick regularly.\r\nIf you are not sure, sit quietly after a meal and notice how often he kicks.\r\nIf you do not count several kicks see your health worker. created by\r\nBabyCenter\r\n\r\n", 
   "source": null, 
   "featured": false, 
+  "image": null, 
   "published": true, 
   "position": 5, 
+  "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "month-8", 
   "uuid": "e38d2c57dbbb497789df996764e4f2cb"
 }
