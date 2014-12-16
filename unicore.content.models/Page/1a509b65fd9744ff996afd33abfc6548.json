@@ -1,17 +1,17 @@
 {
-  "subtitle": "Month3 Swa pregnancy", 
+  "subtitle": "Month3 Swa Ke pregnancy", 
   "description": "Mdundo mwepesi tumboni mwako", 
   "language": "swa_KE", 
   "title": "Mwezi wa 3", 
   "primary_category": "92d9d4e9add444ba8f47b55f8d2e20fa", 
   "created_at": "2014-11-10T20:19:24+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-16T15:44:15.328297+00:00", 
+  "modified_at": "2014-12-16T15:45:16.216187+00:00", 
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
