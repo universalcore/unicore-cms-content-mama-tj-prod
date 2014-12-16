@@ -1,17 +1,17 @@
 {
-  "subtitle": "Mwimbie mtoto wako, anaweza kukusikia!", 
+  "subtitle": "Month6 Swa Ke pregnancy", 
   "description": "Mwimbie mtoto wako, anaweza kukusikia!", 
   "language": "swa_KE", 
   "title": "Mwezi wa 6", 
   "primary_category": "92d9d4e9add444ba8f47b55f8d2e20fa", 
-  "created_at": "2014-11-17T14:49:21.259324+00:00", 
+  "created_at": "2014-11-17T14:49:21+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-03T12:37:20.607842+00:00", 
+  "modified_at": "2014-12-16T15:51:24.634945+00:00", 
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": null, 
   "position": 3, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mwezi-wa-6", 
   "uuid": "27549570d50f4807b2425a9ba0afaaa2"
 }
