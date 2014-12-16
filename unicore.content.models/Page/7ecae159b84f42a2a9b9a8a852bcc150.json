@@ -1,17 +1,17 @@
 {
-  "subtitle": "Mtoto wako anapenda kucheza", 
+  "subtitle": "3monthold Swa ke baby", 
   "description": "Mtoto wako anapenda kucheza", 
   "language": "swa_KE", 
   "title": "Umri wa miezi 3", 
   "primary_category": "f7e39a2cacb044af8a1c137d1bb3bef0", 
-  "created_at": "2014-11-10T20:33:26.377844+00:00", 
+  "created_at": "2014-11-10T20:33:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:37:20.920213+00:00", 
+  "modified_at": "2014-12-16T16:40:36.173330+00:00", 
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": null, 
   "position": 3, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "umri-wa-miezi-3", 
   "uuid": "7ecae159b84f42a2a9b9a8a852bcc150"
 }
