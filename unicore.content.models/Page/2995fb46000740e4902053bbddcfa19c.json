@@ -4,14 +4,14 @@
   "language": "rus_TJ", 
   "title": "3 \u043c\u0435\u0441\u044f\u0446", 
   "primary_category": "3ceba6a8e91f427cabdd7c99e1a0196c", 
-  "created_at": "2015-07-30T09:37:07.778439+00:00", 
+  "created_at": "2015-07-30T09:37:07+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-30T09:37:07.778842+00:00", 
+  "modified_at": "2015-07-30T09:47:40.113999+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 19, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "rus-month-3", 
   "uuid": "2995fb46000740e4902053bbddcfa19c"
