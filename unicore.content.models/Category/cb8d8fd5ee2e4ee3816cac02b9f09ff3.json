@@ -1,14 +1,14 @@
 {
   "subtitle": "", 
   "uuid": "cb8d8fd5ee2e4ee3816cac02b9f09ff3", 
-  "language": "rus_TJ", 
-  "title": "Baby", 
+  "language": "rus_RU", 
+  "title": "\u0420\u0435\u0431\u0435\u043d\u043e\u043a", 
   "image": null, 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "baby", 
