@@ -1,17 +1,17 @@
 {
   "subtitle": "RUS Month 6", 
   "description": "\u0412\u0430\u0448 \u043c\u0430\u043b\u044b\u0448 \u0441\u043b\u044b\u0448\u0438\u0442 \u0432\u0430\u0441!", 
-  "language": "rus_TJ", 
+  "language": "rus_RU", 
   "title": "6 \u043c\u0435\u0441\u044f\u0446", 
   "primary_category": "3ceba6a8e91f427cabdd7c99e1a0196c", 
   "created_at": "2015-07-30T09:38:34+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-30T09:55:57.680358+00:00", 
+  "modified_at": "2015-08-05T19:18:10.307373+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 16, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "rus-month-6", 
   "uuid": "91a60497ebec4c979d861a490b7ecdda"
